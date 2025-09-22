@@ -1,0 +1,58 @@
+[
+  {
+    "type": "mcq",
+    "question": "Which of these is a Python data type?",
+    "options": ["list", "tuple", "dict", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "type": "short",
+    "question": "What keyword is used to define a function in Python?",
+    "answer": "def"
+  },
+  {
+    "type": "mcq",
+    "question": "What does 'len()' function do?",
+    "options": ["Returns length of object", "Creates a list", "Loops through items", "Sorts items"],
+    "answer": "Returns length of object"
+  },
+  {
+    "type": "short",
+    "question": "What method adds an item to the end of a list?",
+    "answer": "append"
+  },
+  {
+    "type": "mcq",
+    "question": "Which operator is used for exponentiation?",
+    "options": ["^", "**", "exp", "pow"],
+    "answer": "**"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the correct way to create a dictionary?",
+    "options": ["{key: value}", "[key: value]", "(key: value)", "<key: value>"],
+    "answer": "{key: value}"
+  },
+  {
+    "type": "short",
+    "question": "What keyword is used for exception handling?",
+    "answer": "try"
+  },
+  {
+    "type": "mcq",
+    "question": "Which method converts a string to lowercase?",
+    "options": ["lower()", "lowercase()", "toLower()", "downcase()"],
+    "answer": "lower()"
+  },
+  {
+    "type": "short",
+    "question": "What built-in function gets user input?",
+    "answer": "input"
+  },
+  {
+    "type": "mcq",
+    "question": "What does 'import' keyword do?",
+    "options": ["Creates a module", "Deletes a module", "Loads a module", "Exports a module"],
+    "answer": "Loads a module"
+  }
+]

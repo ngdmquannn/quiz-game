@@ -1,0 +1,58 @@
+[
+  {
+    "type": "mcq",
+    "question": "What does TCP stand for?",
+    "options": ["Transmission Control Protocol", "Transfer Control Protocol", "Transport Control Protocol", "Terminal Control Protocol"],
+    "answer": "Transmission Control Protocol"
+  },
+  {
+    "type": "short",
+    "question": "What is the default port for HTTP?",
+    "answer": "80"
+  },
+  {
+    "type": "mcq",
+    "question": "Which layer of OSI model handles routing?",
+    "options": ["Physical", "Data Link", "Network", "Transport"],
+    "answer": "Network"
+  },
+  {
+    "type": "short",
+    "question": "What is the default port for HTTPS?",
+    "answer": "443"
+  },
+  {
+    "type": "mcq",
+    "question": "What does DNS stand for?",
+    "options": ["Domain Name System", "Dynamic Name Service", "Distributed Name System", "Domain Network Service"],
+    "answer": "Domain Name System"
+  },
+  {
+    "type": "mcq",
+    "question": "Which protocol is connectionless?",
+    "options": ["TCP", "UDP", "HTTP", "FTP"],
+    "answer": "UDP"
+  },
+  {
+    "type": "short",
+    "question": "What command tests network connectivity to a host?",
+    "answer": "ping"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the private IP range for Class A networks?",
+    "options": ["192.168.0.0/16", "172.16.0.0/12", "10.0.0.0/8", "127.0.0.0/8"],
+    "answer": "10.0.0.0/8"
+  },
+  {
+    "type": "short",
+    "question": "What is the subnet mask for /24 network?",
+    "answer": "255.255.255.0"
+  },
+  {
+    "type": "mcq",
+    "question": "Which protocol is used for secure file transfer?",
+    "options": ["FTP", "TFTP", "SFTP", "HTTP"],
+    "answer": "SFTP"
+  }
+]

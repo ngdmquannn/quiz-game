@@ -1,0 +1,58 @@
+[
+  {
+    "type": "mcq",
+    "question": "Which command lists directory contents?",
+    "options": ["cd", "ls", "pwd", "rm"],
+    "answer": "ls"
+  },
+  {
+    "type": "short",
+    "question": "What command updates package lists in Ubuntu?",
+    "answer": "apt update"
+  },
+  {
+    "type": "mcq",
+    "question": "Which command changes file permissions?",
+    "options": ["chown", "chmod", "chgrp", "chdir"],
+    "answer": "chmod"
+  },
+  {
+    "type": "short",
+    "question": "What command shows current directory path?",
+    "answer": "pwd"
+  },
+  {
+    "type": "mcq",
+    "question": "Which command searches for text in files?",
+    "options": ["find", "grep", "locate", "which"],
+    "answer": "grep"
+  },
+  {
+    "type": "mcq",
+    "question": "What does 'cd ..' do?",
+    "options": ["Go to home directory", "Go to root directory", "Go to parent directory", "Create directory"],
+    "answer": "Go to parent directory"
+  },
+  {
+    "type": "short",
+    "question": "What command creates a new directory?",
+    "answer": "mkdir"
+  },
+  {
+    "type": "mcq",
+    "question": "Which command shows running processes?",
+    "options": ["ps", "jobs", "top", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "type": "short",
+    "question": "What command removes a file?",
+    "answer": "rm"
+  },
+  {
+    "type": "mcq",
+    "question": "What does 'sudo' stand for?",
+    "options": ["Super User Do", "Switch User Do", "System User Do", "Secure User Do"],
+    "answer": "Super User Do"
+  }
+]
