@@ -10,6 +10,18 @@ The project demonstrates practical applications of what I learned in the course,
 
 ---
 
+## Project's Key Features
+
+* 🎮 **Multiplayer quiz rooms** – Dynamic creation and joining of rooms.
+* 💬 **Integrated chat** – Lobby and in-room messaging.
+* 📂 **Custom topics** – Questions defined in `questions_<topic>.json`.
+* 👨‍💼 **Admin panel** – Full control over rooms, players, and quizzes.
+* 🖥️ **PyQt5 GUI** – Modern, dark-themed interface for admin and players.
+* 🌍 **Flexible deployment** – Works locally or in the cloud.
+* 📊 **Leaderboards** – Real-time scoring and final results.
+
+---
+
 ## How the Game Works
 
 1. **Server Initialization**
@@ -45,18 +57,6 @@ The project demonstrates practical applications of what I learned in the course,
    * Scores are updated in real time.
    * A live leaderboard shows rankings.
    * At the end of the quiz, final results are displayed for all players.
-
----
-
-## Key Features
-
-* 🎮 **Multiplayer quiz rooms** – Dynamic creation and joining of rooms.
-* 💬 **Integrated chat** – Lobby and in-room messaging.
-* 📂 **Custom topics** – Questions defined in `questions_<topic>.json`.
-* 👨‍💼 **Admin panel** – Full control over rooms, players, and quizzes.
-* 🖥️ **PyQt5 GUI** – Modern, dark-themed interface for admin and players.
-* 🌍 **Flexible deployment** – Works locally or in the cloud.
-* 📊 **Leaderboards** – Real-time scoring and final results.
 
 ---
 
