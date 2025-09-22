@@ -181,6 +181,3 @@ Clients and admin can connect to `<server-ip>:8888`.
 4. **Quiz** runs with timed questions and scoring.
 5. **Leaderboard** updates after each question, final results at the end.
 
----
-
-Do you want me to add a **section highlighting which networking/programming concepts from your course** (like sockets, threading, GUI, JSON parsing) are applied in this project? It would make it clear how this ties back academically to *Programming for Network Engineers*.
